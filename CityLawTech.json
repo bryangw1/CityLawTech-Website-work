@@ -1,0 +1,4292 @@
+[
+  {
+    "Name": "[Neighborly]",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Citizinvestor",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Kickstarter",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "IndieGogo",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "GoFundMe",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "SpaceHive",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Goteo",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "LaunchGood",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "[Pledgebank]",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "{Louder} Change",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "(Carrotmob)",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "(SoChange)",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Rally",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Crowdpac",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Ignition Deck Wordpress plugin",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Leika",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenCollective",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Crowdfunder",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Kritical Mass",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Neighborland",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "ioby.org",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Pimp my Corroca",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Spendrise",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Mobile Cause",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "CrowdJustice",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Movement2017.org",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "HandUp",
+    "Type": "Crowdfunding",
+    "Description": "Distributed resource gathering campaign, often facilitated by dedicated platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "PopVox",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "Neighborland",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "Contact Congress",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "Write to Them",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "Citizen Budget",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "-Community PlanIt-",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "Meu Rio",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "(GovFaces)",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "Regulation Room",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "Better Reykjavik",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "Mashnotes",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "City Flag",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "MyReps",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "EngagingPlans",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "CiviComment",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "LegislationLab",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "PlanningAlerts",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "Feedback Labs",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "Phone Your Rep",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "IssueVoter",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "5calls",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "CallOut",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "Desafios",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "ResistBot",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "CivicRise",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "Beekeeper Group's Lobby Day app",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "CoLab",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "PlaceSpeak",
+    "Type": "Constituent to Government communication",
+    "Description": "Digital communication channels between constituents and representatives, trying to improve the feedback loop",
+    "Address": "null"
+  },
+  {
+    "Name": "{Granicus}",
+    "Type": "Government to constituent communications",
+    "Description": "Tools and platforms that broadcast official communications and democratic processes",
+    "Address": "null"
+  },
+  {
+    "Name": "Measured Voice",
+    "Type": "Government to constituent communications",
+    "Description": "Tools and platforms that broadcast official communications and democratic processes",
+    "Address": "null"
+  },
+  {
+    "Name": "Change Decisionmakers",
+    "Type": "Government to constituent communications",
+    "Description": "Tools and platforms that broadcast official communications and democratic processes",
+    "Address": "null"
+  },
+  {
+    "Name": "{GovDelivery}",
+    "Type": "Government to constituent communications",
+    "Description": "Tools and platforms that broadcast official communications and democratic processes",
+    "Address": "null"
+  },
+  {
+    "Name": "(YouTown)",
+    "Type": "Government to constituent communications",
+    "Description": "Tools and platforms that broadcast official communications and democratic processes",
+    "Address": "null"
+  },
+  {
+    "Name": "Neighborland",
+    "Type": "Government to constituent communications",
+    "Description": "Tools and platforms that broadcast official communications and democratic processes",
+    "Address": "null"
+  },
+  {
+    "Name": "CouncilStat NYC",
+    "Type": "Government to constituent communications",
+    "Description": "Tools and platforms that broadcast official communications and democratic processes",
+    "Address": "null"
+  },
+  {
+    "Name": "Nextdoor",
+    "Type": "Government to constituent communications",
+    "Description": "Tools and platforms that broadcast official communications and democratic processes",
+    "Address": "null"
+  },
+  {
+    "Name": "EngagingPlans",
+    "Type": "Government to constituent communications",
+    "Description": "Tools and platforms that broadcast official communications and democratic processes",
+    "Address": "null"
+  },
+  {
+    "Name": "Public engagement toolkit, case studies",
+    "Type": "Government to constituent communications",
+    "Description": "Tools and platforms that broadcast official communications and democratic processes",
+    "Address": "null"
+  },
+  {
+    "Name": "Ranking local government websites in NY",
+    "Type": "Government to constituent communications",
+    "Description": "Tools and platforms that broadcast official communications and democratic processes",
+    "Address": "null"
+  },
+  {
+    "Name": "CoLab",
+    "Type": "Government to constituent communications",
+    "Description": "Tools and platforms that broadcast official communications and democratic processes",
+    "Address": "null"
+  },
+  {
+    "Name": "SeamlessDocs",
+    "Type": "Bureaucracy tech",
+    "Description": "Govtech tools to digitize and enhance core administrative functions",
+    "Address": "null"
+  },
+  {
+    "Name": "Department of Better Technology",
+    "Type": "Bureaucracy tech",
+    "Description": "Govtech tools to digitize and enhance core administrative functions",
+    "Address": "null"
+  },
+  {
+    "Name": "Field Guides to Ensuring Voter Intent",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "Rock the Vote registration widget",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "TurboVote",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "Crowdpac",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "Vote.org",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "MediaNaranjamom",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "Vote.ly.g0v.tw",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "Bite the Ballot",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "Democracy Club",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "Vote.org",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "Voting Information Project",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "Ballot Ready",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "DemTools",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "SmartElect",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "SwingLeft",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "RUN DNC",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "Where Do I Vote - UK",
+    "Type": "Voting, registration, and election information",
+    "Description": "Data and tools designed to help people vote by informing voters about registration requirements, ballot information, districts, and election dates, locations, and procedues.",
+    "Address": "null"
+  },
+  {
+    "Name": "RunforOffice",
+    "Type": "Candidacy support",
+    "Description": "Tools, resources, databases, and trainings to lower barriers to running for office",
+    "Address": "null"
+  },
+  {
+    "Name": "Run for Something",
+    "Type": "Candidacy support",
+    "Description": "Tools, resources, databases, and trainings to lower barriers to running for office",
+    "Address": "null"
+  },
+  {
+    "Name": "Run Women Run",
+    "Type": "Candidacy support",
+    "Description": "Tools, resources, databases, and trainings to lower barriers to running for office",
+    "Address": "null"
+  },
+  {
+    "Name": "CrowdPAC",
+    "Type": "Candidacy support",
+    "Description": "Tools, resources, databases, and trainings to lower barriers to running for office",
+    "Address": "null"
+  },
+  {
+    "Name": "Democratic GAIN",
+    "Type": "Candidacy support",
+    "Description": "Tools, resources, databases, and trainings to lower barriers to running for office",
+    "Address": "null"
+  },
+  {
+    "Name": "Running Start",
+    "Type": "Candidacy support",
+    "Description": "Tools, resources, databases, and trainings to lower barriers to running for office",
+    "Address": "null"
+  },
+  {
+    "Name": "Emerge America",
+    "Type": "Candidacy support",
+    "Description": "Tools, resources, databases, and trainings to lower barriers to running for office",
+    "Address": "null"
+  },
+  {
+    "Name": "She Should Run",
+    "Type": "Candidacy support",
+    "Description": "Tools, resources, databases, and trainings to lower barriers to running for office",
+    "Address": "null"
+  },
+  {
+    "Name": "Action for America",
+    "Type": "Candidacy support",
+    "Description": "Tools, resources, databases, and trainings to lower barriers to running for office",
+    "Address": "null"
+  },
+  {
+    "Name": "Vote Run Lead",
+    "Type": "Candidacy support",
+    "Description": "Tools, resources, databases, and trainings to lower barriers to running for office",
+    "Address": "null"
+  },
+  {
+    "Name": "Rise To Run",
+    "Type": "Candidacy support",
+    "Description": "Tools, resources, databases, and trainings to lower barriers to running for office",
+    "Address": "null"
+  },
+  {
+    "Name": "CityMart",
+    "Type": "Marketplaces and Clearinghouses",
+    "Description": "Marketplaces for government technologies where all participants pass procurement rules",
+    "Address": "null"
+  },
+  {
+    "Name": "Digital Marketplace (UK)",
+    "Type": "Marketplaces and Clearinghouses",
+    "Description": "Marketplaces for government technologies where all participants pass procurement rules",
+    "Address": "null"
+  },
+  {
+    "Name": "Causes [Brigade]",
+    "Type": "Marketplaces and Clearinghouses",
+    "Description": "Marketplaces for government technologies where all participants pass procurement rules",
+    "Address": "null"
+  },
+  {
+    "Name": "Marketplace NYC",
+    "Type": "Marketplaces and Clearinghouses",
+    "Description": "Marketplaces for government technologies where all participants pass procurement rules",
+    "Address": "null"
+  },
+  {
+    "Name": "PlaceSpeak",
+    "Type": "Ideation",
+    "Description": "Systems to elicit ideas and support",
+    "Address": "null"
+  },
+  {
+    "Name": "Ideascale",
+    "Type": "Ideation",
+    "Description": "Systems to elicit ideas and support",
+    "Address": "null"
+  },
+  {
+    "Name": "(ChangeByUs)",
+    "Type": "Ideation",
+    "Description": "Systems to elicit ideas and support",
+    "Address": "null"
+  },
+  {
+    "Name": "Crowdicity",
+    "Type": "Ideation",
+    "Description": "Systems to elicit ideas and support",
+    "Address": "null"
+  },
+  {
+    "Name": "Open Ideo",
+    "Type": "Ideation",
+    "Description": "Systems to elicit ideas and support",
+    "Address": "null"
+  },
+  {
+    "Name": "Public ideas vibes",
+    "Type": "Ideation",
+    "Description": "Systems to elicit ideas and support",
+    "Address": "null"
+  },
+  {
+    "Name": "Deebase",
+    "Type": "Ideation",
+    "Description": "Systems to elicit ideas and support",
+    "Address": "null"
+  },
+  {
+    "Name": "Action Path",
+    "Type": "Ideation",
+    "Description": "Systems to elicit ideas and support",
+    "Address": "null"
+  },
+  {
+    "Name": "Textizen",
+    "Type": "Ideation",
+    "Description": "Systems to elicit ideas and support",
+    "Address": "null"
+  },
+  {
+    "Name": "Dialogue",
+    "Type": "Ideation",
+    "Description": "Systems to elicit ideas and support",
+    "Address": "null"
+  },
+  {
+    "Name": "Consul",
+    "Type": "Ideation",
+    "Description": "Systems to elicit ideas and support",
+    "Address": "null"
+  },
+  {
+    "Name": "Neighborland",
+    "Type": "Ideation",
+    "Description": "Systems to elicit ideas and support",
+    "Address": "null"
+  },
+  {
+    "Name": "DemocracyOS",
+    "Type": "Ideation",
+    "Description": "Systems to elicit ideas and support",
+    "Address": "null"
+  },
+  {
+    "Name": "Community Lovers Guide for placemaking",
+    "Type": "Collections",
+    "Description": "Galleries of civic tech projects",
+    "Address": "null"
+  },
+  {
+    "Name": "Civic Commons",
+    "Type": "Collections",
+    "Description": "Galleries of civic tech projects",
+    "Address": "null"
+  },
+  {
+    "Name": "Digital Activism Research Project",
+    "Type": "Collections",
+    "Description": "Galleries of civic tech projects",
+    "Address": "null"
+  },
+  {
+    "Name": "OGP Toolbox",
+    "Type": "Collections",
+    "Description": "Galleries of civic tech projects",
+    "Address": "null"
+  },
+  {
+    "Name": "Verification Junkie",
+    "Type": "Collections",
+    "Description": "Galleries of civic tech projects",
+    "Address": "null"
+  },
+  {
+    "Name": "Data Collaboratives",
+    "Type": "Collections",
+    "Description": "Galleries of civic tech projects",
+    "Address": "null"
+  },
+  {
+    "Name": "Mapping the News and Information Ecosystem",
+    "Type": "Collections",
+    "Description": "Galleries of civic tech projects",
+    "Address": "null"
+  },
+  {
+    "Name": "Ways for technologists to get involved",
+    "Type": "Collections",
+    "Description": "Galleries of civic tech projects",
+    "Address": "null"
+  },
+  {
+    "Name": "Reporters Lab collection of fact-checking organizations globally",
+    "Type": "Collections",
+    "Description": "Galleries of civic tech projects",
+    "Address": "null"
+  },
+  {
+    "Name": "The Public Impact Observatory",
+    "Type": "Collections",
+    "Description": "Galleries of civic tech projects",
+    "Address": "null"
+  },
+  {
+    "Name": "Junar",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Socrata",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Civic Insight",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "CKAN",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "ESRI",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "AppCityLife",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "ODX",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Namara",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Knoema",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Enigma",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Engage",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Datahub",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenDataSoft",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "BigQuery",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "JKAN",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Open NY",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Open Public Procurement",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "legislation.gov.uk",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenCorporates",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "SeamlessDoc",
+    "Type": "Open data publishing platforms",
+    "Description": "Web-based data access, publishing, and distribution platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "BSD Tools",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "NationBuilder",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "ActionKit",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "Salsa",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "Organizer",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "Hustle.life",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "Amicus",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "Neighborland",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "Coworker.org",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "Trello",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "Campaignion",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "Groundwork",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "Action Network",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "Polis",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "GroundGame",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "Progressive Technology Project",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "LobbyForMe",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "SparkInfluence",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "CallHub",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "Act On This",
+    "Type": "Campaign organizing platforms",
+    "Description": "Digital tool suites to facilitate political or community organizing",
+    "Address": "null"
+  },
+  {
+    "Name": "Change",
+    "Type": "Online Petition Sites",
+    "Description": "Tools that enable the collection of signatures for or against something, usually with a specific target or recipient",
+    "Address": "null"
+  },
+  {
+    "Name": "ControlShift",
+    "Type": "Online Petition Sites",
+    "Description": "Tools that enable the collection of signatures for or against something, usually with a specific target or recipient",
+    "Address": "null"
+  },
+  {
+    "Name": "AskThem",
+    "Type": "Online Petition Sites",
+    "Description": "Tools that enable the collection of signatures for or against something, usually with a specific target or recipient",
+    "Address": "null"
+  },
+  {
+    "Name": "WeThePeople",
+    "Type": "Online Petition Sites",
+    "Description": "Tools that enable the collection of signatures for or against something, usually with a specific target or recipient",
+    "Address": "null"
+  },
+  {
+    "Name": "MoveOn Petitions",
+    "Type": "Online Petition Sites",
+    "Description": "Tools that enable the collection of signatures for or against something, usually with a specific target or recipient",
+    "Address": "null"
+  },
+  {
+    "Name": "iPetitions",
+    "Type": "Online Petition Sites",
+    "Description": "Tools that enable the collection of signatures for or against something, usually with a specific target or recipient",
+    "Address": "null"
+  },
+  {
+    "Name": "Neighborland",
+    "Type": "Online Petition Sites",
+    "Description": "Tools that enable the collection of signatures for or against something, usually with a specific target or recipient",
+    "Address": "null"
+  },
+  {
+    "Name": "38degrees",
+    "Type": "Online Petition Sites",
+    "Description": "Tools that enable the collection of signatures for or against something, usually with a specific target or recipient",
+    "Address": "null"
+  },
+  {
+    "Name": "Avaaz",
+    "Type": "Online Petition Sites",
+    "Description": "Tools that enable the collection of signatures for or against something, usually with a specific target or recipient",
+    "Address": "null"
+  },
+  {
+    "Name": "PowerFoule",
+    "Type": "Online Petition Sites",
+    "Description": "Tools that enable the collection of signatures for or against something, usually with a specific target or recipient",
+    "Address": "null"
+  },
+  {
+    "Name": "Action Network",
+    "Type": "Online Petition Sites",
+    "Description": "Tools that enable the collection of signatures for or against something, usually with a specific target or recipient",
+    "Address": "null"
+  },
+  {
+    "Name": "Causes",
+    "Type": "Online Petition Sites",
+    "Description": "Tools that enable the collection of signatures for or against something, usually with a specific target or recipient",
+    "Address": "null"
+  },
+  {
+    "Name": "ControlShift / CommunityRun",
+    "Type": "Online Petition Sites",
+    "Description": "Tools that enable the collection of signatures for or against something, usually with a specific target or recipient",
+    "Address": "null"
+  },
+  {
+    "Name": "Agora",
+    "Type": "Civic forums",
+    "Description": "Online discussion platforms built to foster civic conversation and debate",
+    "Address": "null"
+  },
+  {
+    "Name": "(Essembly)",
+    "Type": "Civic forums",
+    "Description": "Online discussion platforms built to foster civic conversation and debate",
+    "Address": "null"
+  },
+  {
+    "Name": "[Mic]",
+    "Type": "Civic forums",
+    "Description": "Online discussion platforms built to foster civic conversation and debate",
+    "Address": "null"
+  },
+  {
+    "Name": "Localocracy {Huffington Post}",
+    "Type": "Civic forums",
+    "Description": "Online discussion platforms built to foster civic conversation and debate",
+    "Address": "null"
+  },
+  {
+    "Name": "Citizen beta",
+    "Type": "Civic forums",
+    "Description": "Online discussion platforms built to foster civic conversation and debate",
+    "Address": "null"
+  },
+  {
+    "Name": "E-Democracy.org",
+    "Type": "Civic forums",
+    "Description": "Online discussion platforms built to foster civic conversation and debate",
+    "Address": "null"
+  },
+  {
+    "Name": "The California Report Card",
+    "Type": "Civic forums",
+    "Description": "Online discussion platforms built to foster civic conversation and debate",
+    "Address": "null"
+  },
+  {
+    "Name": "The Civic Cloud Collaborative",
+    "Type": "Civic forums",
+    "Description": "Online discussion platforms built to foster civic conversation and debate",
+    "Address": "null"
+  },
+  {
+    "Name": "Neighborland",
+    "Type": "Civic forums",
+    "Description": "Online discussion platforms built to foster civic conversation and debate",
+    "Address": "null"
+  },
+  {
+    "Name": "Loomio",
+    "Type": "Civic forums",
+    "Description": "Online discussion platforms built to foster civic conversation and debate",
+    "Address": "null"
+  },
+  {
+    "Name": "PlaceSpeak",
+    "Type": "Civic forums",
+    "Description": "Online discussion platforms built to foster civic conversation and debate",
+    "Address": "null"
+  },
+  {
+    "Name": "https://www.discourse.org/",
+    "Type": "Civic forums",
+    "Description": "Online discussion platforms built to foster civic conversation and debate",
+    "Address": "null"
+  },
+  {
+    "Name": "NextDoor",
+    "Type": "Neighborhood forums",
+    "Description": "Digital venues that promote conversation within geographically-defined communities",
+    "Address": "null"
+  },
+  {
+    "Name": "Local Circles",
+    "Type": "Neighborhood forums",
+    "Description": "Digital venues that promote conversation within geographically-defined communities",
+    "Address": "null"
+  },
+  {
+    "Name": "FrontPorchForum",
+    "Type": "Neighborhood forums",
+    "Description": "Digital venues that promote conversation within geographically-defined communities",
+    "Address": "null"
+  },
+  {
+    "Name": "E-Democracy.org (BeNeighbors.org)",
+    "Type": "Neighborhood forums",
+    "Description": "Digital venues that promote conversation within geographically-defined communities",
+    "Address": "null"
+  },
+  {
+    "Name": "Meu Rio",
+    "Type": "Neighborhood forums",
+    "Description": "Digital venues that promote conversation within geographically-defined communities",
+    "Address": "null"
+  },
+  {
+    "Name": "(Blockboard)",
+    "Type": "Neighborhood forums",
+    "Description": "Digital venues that promote conversation within geographically-defined communities",
+    "Address": "null"
+  },
+  {
+    "Name": "Mon P'ti Voisinage",
+    "Type": "Neighborhood forums",
+    "Description": "Digital venues that promote conversation within geographically-defined communities",
+    "Address": "null"
+  },
+  {
+    "Name": "Street Life",
+    "Type": "Neighborhood forums",
+    "Description": "Digital venues that promote conversation within geographically-defined communities",
+    "Address": "null"
+  },
+  {
+    "Name": "Neighborland",
+    "Type": "Neighborhood forums",
+    "Description": "Digital venues that promote conversation within geographically-defined communities",
+    "Address": "null"
+  },
+  {
+    "Name": "lists.vitalcommunities.org [VT/NH]",
+    "Type": "Neighborhood forums",
+    "Description": "Digital venues that promote conversation within geographically-defined communities",
+    "Address": "null"
+  },
+  {
+    "Name": "PlaceSpeak",
+    "Type": "Neighborhood forums",
+    "Description": "Digital venues that promote conversation within geographically-defined communities",
+    "Address": "null"
+  },
+  {
+    "Name": "Meetup",
+    "Type": "Event organizing",
+    "Description": "Tools that help groups assemble, on- or offline",
+    "Address": "null"
+  },
+  {
+    "Name": "Eventbrite",
+    "Type": "Event organizing",
+    "Description": "Tools that help groups assemble, on- or offline",
+    "Address": "null"
+  },
+  {
+    "Name": "Timepad",
+    "Type": "Event organizing",
+    "Description": "Tools that help groups assemble, on- or offline",
+    "Address": "null"
+  },
+  {
+    "Name": "Kawaa",
+    "Type": "Event organizing",
+    "Description": "Tools that help groups assemble, on- or offline",
+    "Address": "null"
+  },
+  {
+    "Name": "Attending.io",
+    "Type": "Event organizing",
+    "Description": "Tools that help groups assemble, on- or offline",
+    "Address": "null"
+  },
+  {
+    "Name": "Act On This",
+    "Type": "Event organizing",
+    "Description": "Tools that help groups assemble, on- or offline",
+    "Address": "null"
+  },
+  {
+    "Name": "demosphere.eu",
+    "Type": "Collaborative calendars",
+    "Description": "Tools that keep people informed of interesting initiatives/events happening around them.",
+    "Address": "null"
+  },
+  {
+    "Name": "Singapore Memory Project",
+    "Type": "Collaborative calendars",
+    "Description": "Tools that keep people informed of interesting initiatives/events happening around them.",
+    "Address": "null"
+  },
+  {
+    "Name": "Community Media Drupal Summit",
+    "Type": "Collaborative calendars",
+    "Description": "Tools that keep people informed of interesting initiatives/events happening around them.",
+    "Address": "null"
+  },
+  {
+    "Name": "Slack",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "Google Groups",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "Yahoo Groups",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "Facebook Groups",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "HipChat",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "Remesh",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "CivicIQ",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "GroupServer",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "IRC",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "Discourse",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "Gitter",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "Hackfoldr",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "WhatsApp",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "Viber",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "FrontlineSMS/Cloud",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "Hackpad",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "https://groups.io",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "https://github.com/NodeBB/NodeBB",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "https://www.mobilize.io",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "Signal",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "Telegram",
+    "Type": "Group communication tools",
+    "Description": "Digital messaging",
+    "Address": "null"
+  },
+  {
+    "Name": "Loomio",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "Zilino",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "DemocracyOS",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "Liquid Democracy",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "Civinomics",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "(Intertwinkles)",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "(America Speaks)",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "Pol.is",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "Sortition",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "CMU condersec voting",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "Neighborland",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "Cobi: Community based scheduling",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "Ethelo",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "Stig (fr)",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "Do-it-Yourself Toolkit",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "CiviComment",
+    "Type": "Group decision-making",
+    "Description": "Tools and platforms that aid group decisionmaking through deliberate design decisions to improve the likelihood of desired outcomes, such as consensus.",
+    "Address": "null"
+  },
+  {
+    "Name": "ResistX protest SMS alerts",
+    "Type": "Activism aggregation",
+    "Description": "Concierge services to simplify and surface civic actions in convenient ways",
+    "Address": "null"
+  },
+  {
+    "Name": "How to Help",
+    "Type": "Activism aggregation",
+    "Description": "Concierge services to simplify and surface civic actions in convenient ways",
+    "Address": "null"
+  },
+  {
+    "Name": "Every Day Project",
+    "Type": "Activism aggregation",
+    "Description": "Concierge services to simplify and surface civic actions in convenient ways",
+    "Address": "null"
+  },
+  {
+    "Name": "Tech Resistance",
+    "Type": "Activism aggregation",
+    "Description": "Concierge services to simplify and surface civic actions in convenient ways",
+    "Address": "null"
+  },
+  {
+    "Name": "Daily Action",
+    "Type": "Activism aggregation",
+    "Description": "Concierge services to simplify and surface civic actions in convenient ways",
+    "Address": "null"
+  },
+  {
+    "Name": "Civic Action Tools and Resources",
+    "Type": "Activism aggregation",
+    "Description": "Concierge services to simplify and surface civic actions in convenient ways",
+    "Address": "null"
+  },
+  {
+    "Name": "Brigade",
+    "Type": "Opinion matching",
+    "Description": "Tools and processes that connect people to other people or candidates based on their views--either similar or divergent",
+    "Address": "null"
+  },
+  {
+    "Name": "Countable",
+    "Type": "Opinion matching",
+    "Description": "Tools and processes that connect people to other people or candidates based on their views--either similar or divergent",
+    "Address": "null"
+  },
+  {
+    "Name": "Tinder + Wedgie candidate matching",
+    "Type": "Opinion matching",
+    "Description": "Tools and processes that connect people to other people or candidates based on their views--either similar or divergent",
+    "Address": "null"
+  },
+  {
+    "Name": "IssueVoter",
+    "Type": "Opinion matching",
+    "Description": "Tools and processes that connect people to other people or candidates based on their views--either similar or divergent",
+    "Address": "null"
+  },
+  {
+    "Name": "iCitizen",
+    "Type": "Opinion matching",
+    "Description": "Tools and processes that connect people to other people or candidates based on their views--either similar or divergent",
+    "Address": "null"
+  },
+  {
+    "Name": "Vote Compass",
+    "Type": "Opinion matching",
+    "Description": "Tools and processes that connect people to other people or candidates based on their views--either similar or divergent",
+    "Address": "null"
+  },
+  {
+    "Name": "(Jumo)",
+    "Type": "Opinion matching",
+    "Description": "Tools and processes that connect people to other people or candidates based on their views--either similar or divergent",
+    "Address": "null"
+  },
+  {
+    "Name": "ElectNext [Versa] opinion matching {Change}",
+    "Type": "Opinion matching",
+    "Description": "Tools and processes that connect people to other people or candidates based on their views--either similar or divergent",
+    "Address": "null"
+  },
+  {
+    "Name": "Pol.is",
+    "Type": "Opinion matching",
+    "Description": "Tools and processes that connect people to other people or candidates based on their views--either similar or divergent",
+    "Address": "null"
+  },
+  {
+    "Name": "Vote for Policies",
+    "Type": "Opinion matching",
+    "Description": "Tools and processes that connect people to other people or candidates based on their views--either similar or divergent",
+    "Address": "null"
+  },
+  {
+    "Name": "Vote Match/On the Issues",
+    "Type": "Opinion matching",
+    "Description": "Tools and processes that connect people to other people or candidates based on their views--either similar or divergent",
+    "Address": "null"
+  },
+  {
+    "Name": "Verto",
+    "Type": "Opinion matching",
+    "Description": "Tools and processes that connect people to other people or candidates based on their views--either similar or divergent",
+    "Address": "null"
+  },
+  {
+    "Name": "PositionDial",
+    "Type": "Opinion matching",
+    "Description": "Tools and processes that connect people to other people or candidates based on their views--either similar or divergent",
+    "Address": "null"
+  },
+  {
+    "Name": "Flipfeed to view others' Twitter streams",
+    "Type": "Opinion matching",
+    "Description": "Tools and processes that connect people to other people or candidates based on their views--either similar or divergent",
+    "Address": "null"
+  },
+  {
+    "Name": "Opinary",
+    "Type": "Opinion matching",
+    "Description": "Tools and processes that connect people to other people or candidates based on their views--either similar or divergent",
+    "Address": "null"
+  },
+  {
+    "Name": "Capitol Bells",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "GovTrack",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "TheyWorkForYou",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "Councilmatic",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "(Citizen CoSponsor)",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "(THOMAS)",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "Congress.gov",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "ShineYourEye",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "Mzalendo",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "VoteIQ",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "Countable",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "BillCam",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "Localocracy {Huffington Post}",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenParlamento",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "NosDeputes",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "NosSenateurs.fr",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "Knomos",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "Digital Democracy",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "They Vote For You",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "Represent",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "CiviComment",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "Legislation.gov.uk",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "mymadison.io",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "Indigo",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "Nyaaya",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "Case text",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "WikiLegis",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "LegislationLab",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenLaws.com",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "ePolicyWorks",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "NeosLab",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "D-Cent",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "Podemos",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "CrowdLaw Tracking in US",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "Etherpad",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "DemocracyOS",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "TheConstitution of All",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "participa",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "cocounsel.co",
+    "Type": "Legislation engagement",
+    "Description": "Systems that document, distribute, and otherwise make legible the legislative process",
+    "Address": "null"
+  },
+  {
+    "Name": "Citygram",
+    "Type": "Service alerts",
+    "Description": "Governmental notifications pushed to residents, often municipal government notifying its residents about local service issues",
+    "Address": "null"
+  },
+  {
+    "Name": "eCitizens.org",
+    "Type": "Service alerts",
+    "Description": "Governmental notifications pushed to residents, often municipal government notifying its residents about local service issues",
+    "Address": "null"
+  },
+  {
+    "Name": "Where's my bus?",
+    "Type": "Service alerts",
+    "Description": "Governmental notifications pushed to residents, often municipal government notifying its residents about local service issues",
+    "Address": "null"
+  },
+  {
+    "Name": "Mind My Business",
+    "Type": "Service alerts",
+    "Description": "Governmental notifications pushed to residents, often municipal government notifying its residents about local service issues",
+    "Address": "null"
+  },
+  {
+    "Name": "Neighborhoods.NYC",
+    "Type": "Service alerts",
+    "Description": "Governmental notifications pushed to residents, often municipal government notifying its residents about local service issues",
+    "Address": "null"
+  },
+  {
+    "Name": "Vizalytics",
+    "Type": "Service alerts",
+    "Description": "Governmental notifications pushed to residents, often municipal government notifying its residents about local service issues",
+    "Address": "null"
+  },
+  {
+    "Name": "Where's my school bus?",
+    "Type": "Service alerts",
+    "Description": "Governmental notifications pushed to residents, often municipal government notifying its residents about local service issues",
+    "Address": "null"
+  },
+  {
+    "Name": "CAP Protocol",
+    "Type": "Service alerts",
+    "Description": "Governmental notifications pushed to residents, often municipal government notifying its residents about local service issues",
+    "Address": "null"
+  },
+  {
+    "Name": "Google Crisis Alerts",
+    "Type": "Service alerts",
+    "Description": "Governmental notifications pushed to residents, often municipal government notifying its residents about local service issues",
+    "Address": "null"
+  },
+  {
+    "Name": "Our Common Place",
+    "Type": "Service alerts",
+    "Description": "Governmental notifications pushed to residents, often municipal government notifying its residents about local service issues",
+    "Address": "null"
+  },
+  {
+    "Name": "Votizen {Causes}",
+    "Type": "Service alerts",
+    "Description": "Governmental notifications pushed to residents, often municipal government notifying its residents about local service issues",
+    "Address": "null"
+  },
+  {
+    "Name": "Nextdoor",
+    "Type": "Service alerts",
+    "Description": "Governmental notifications pushed to residents, often municipal government notifying its residents about local service issues",
+    "Address": "null"
+  },
+  {
+    "Name": "(redbluevoice.com)",
+    "Type": "Service alerts",
+    "Description": "Governmental notifications pushed to residents, often municipal government notifying its residents about local service issues",
+    "Address": "null"
+  },
+  {
+    "Name": "Citygram.NYC",
+    "Type": "Service alerts",
+    "Description": "Governmental notifications pushed to residents, often municipal government notifying its residents about local service issues",
+    "Address": "null"
+  },
+  {
+    "Name": "Facebook Safety Check",
+    "Type": "Check-in Tools",
+    "Description": "Tools and processes through which individuals and organizations can register their presence or status, often for the purposes of coordination in a crisis context",
+    "Address": "null"
+  },
+  {
+    "Name": "Google Person Finder",
+    "Type": "Check-in Tools",
+    "Description": "Tools and processes through which individuals and organizations can register their presence or status, often for the purposes of coordination in a crisis context",
+    "Address": "null"
+  },
+  {
+    "Name": "Sahana Eden check-in",
+    "Type": "Check-in Tools",
+    "Description": "Tools and processes through which individuals and organizations can register their presence or status, often for the purposes of coordination in a crisis context",
+    "Address": "null"
+  },
+  {
+    "Name": "FourSquare",
+    "Type": "Check-in Tools",
+    "Description": "Tools and processes through which individuals and organizations can register their presence or status, often for the purposes of coordination in a crisis context",
+    "Address": "null"
+  },
+  {
+    "Name": "Refugees United",
+    "Type": "Check-in Tools",
+    "Description": "Tools and processes through which individuals and organizations can register their presence or status, often for the purposes of coordination in a crisis context",
+    "Address": "null"
+  },
+  {
+    "Name": "Twitter",
+    "Type": "Check-in Tools",
+    "Description": "Tools and processes through which individuals and organizations can register their presence or status, often for the purposes of coordination in a crisis context",
+    "Address": "null"
+  },
+  {
+    "Name": "Swarm",
+    "Type": "Check-in Tools",
+    "Description": "Tools and processes through which individuals and organizations can register their presence or status, often for the purposes of coordination in a crisis context",
+    "Address": "null"
+  },
+  {
+    "Name": "LocalData",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "First Mile Geo",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Ushahidi",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Crowdmapping",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Street Lives NYC",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Scrapers",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Zooniverse",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "datea.pe",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Popit (2.0)",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Democracy Club",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "EveryPolitician",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Neighborland",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Standby Task Force",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Humanity Road",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Crisis Commons",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Humanitarian OpenStreetMap",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Info4Disasters",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "iSeeChange",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Collideoscope",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "City Beat",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Galas (Ukraine)",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Micromappers",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Verily",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Google Sheets",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenDataKit",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "KoBoToolbox",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenPaths",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenElections",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Shareabouts",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Philadelphia Vision Zero crowdsourced safety map",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Denver Vision Zero online survey map",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "Wikidata",
+    "Type": "Crowdsourced data collection",
+    "Description": "Platforms that allow a variety of people to contribute data to a common collection",
+    "Address": "null"
+  },
+  {
+    "Name": "SeeClickFix",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "FixMyStreet",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "Ushahidi",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "CitySourced",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "Recovers.org",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "Repara Ciudad",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "Odkazprestarostu.sk",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "Jarokelo.hu",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "Cuidando.org",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "Wheelie Map",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "First to See",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "www.cityflag.co",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "Witness",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "CameraV",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "eyeWitness",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "I Change My City",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "uSocialmaps",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "MeWe",
+    "Type": "Issue reporting",
+    "Description": "A subset of crowdsourced data collection, issue reporting platforms enable residents to notify their government(s) of items in need of attention, often municipal",
+    "Address": "null"
+  },
+  {
+    "Name": "Recovers.org",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "Favabank",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "Taproot Foundation",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "Catchafire",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "Social Coding 4 Good",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "Silicon Valley Talent Partnership",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "StreetBank",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "OurGoods",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenShed",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "SF72",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "Occupy Sandy's usage of Amazon Prime",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "Airbnb Disaster Response",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "Sandy Coworking Map",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "Idealist.org",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "Movements.org",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "Perennial",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "Achitizer",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "BlocPower",
+    "Type": "Resource matching/sharing",
+    "Description": "Platforms that coordinate matching of needs and resources",
+    "Address": "null"
+  },
+  {
+    "Name": "Purple Binder",
+    "Type": "Benefit Navigation",
+    "Description": "Systems that assist individuals in identifying government or community provided benefits and services",
+    "Address": "null"
+  },
+  {
+    "Name": "AuntBertha",
+    "Type": "Benefit Navigation",
+    "Description": "Systems that assist individuals in identifying government or community provided benefits and services",
+    "Address": "null"
+  },
+  {
+    "Name": "UniteUS",
+    "Type": "Benefit Navigation",
+    "Description": "Systems that assist individuals in identifying government or community provided benefits and services",
+    "Address": "null"
+  },
+  {
+    "Name": "OneDegree",
+    "Type": "Benefit Navigation",
+    "Description": "Systems that assist individuals in identifying government or community provided benefits and services",
+    "Address": "null"
+  },
+  {
+    "Name": "mRelief",
+    "Type": "Benefit Navigation",
+    "Description": "Systems that assist individuals in identifying government or community provided benefits and services",
+    "Address": "null"
+  },
+  {
+    "Name": "BenefitKitchen",
+    "Type": "Benefit Navigation",
+    "Description": "Systems that assist individuals in identifying government or community provided benefits and services",
+    "Address": "null"
+  },
+  {
+    "Name": "Healthify",
+    "Type": "Benefit Navigation",
+    "Description": "Systems that assist individuals in identifying government or community provided benefits and services",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenReferral",
+    "Type": "Benefit Navigation",
+    "Description": "Systems that assist individuals in identifying government or community provided benefits and services",
+    "Address": "null"
+  },
+  {
+    "Name": "HealthLeads",
+    "Type": "Benefit Navigation",
+    "Description": "Systems that assist individuals in identifying government or community provided benefits and services",
+    "Address": "null"
+  },
+  {
+    "Name": "SingleStop",
+    "Type": "Benefit Navigation",
+    "Description": "Systems that assist individuals in identifying government or community provided benefits and services",
+    "Address": "null"
+  },
+  {
+    "Name": "iCarol",
+    "Type": "Benefit Navigation",
+    "Description": "Systems that assist individuals in identifying government or community provided benefits and services",
+    "Address": "null"
+  },
+  {
+    "Name": "Ask Izzy",
+    "Type": "Benefit Navigation",
+    "Description": "Systems that assist individuals in identifying government or community provided benefits and services",
+    "Address": "null"
+  },
+  {
+    "Name": "Solutions for Progress",
+    "Type": "Benefit Navigation",
+    "Description": "Systems that assist individuals in identifying government or community provided benefits and services",
+    "Address": "null"
+  },
+  {
+    "Name": "Propel",
+    "Type": "Benefit Navigation",
+    "Description": "Systems that assist individuals in identifying government or community provided benefits and services",
+    "Address": "null"
+  },
+  {
+    "Name": "MuckRock",
+    "Type": "Freedom of Information",
+    "Description": "Tools that simplify the interface for filing freedom of information requests",
+    "Address": "null"
+  },
+  {
+    "Name": "JeVousSavoir.org",
+    "Type": "Freedom of Information",
+    "Description": "Tools that simplify the interface for filing freedom of information requests",
+    "Address": "null"
+  },
+  {
+    "Name": "WhatDoTheyKnow",
+    "Type": "Freedom of Information",
+    "Description": "Tools that simplify the interface for filing freedom of information requests",
+    "Address": "null"
+  },
+  {
+    "Name": "FOIA Mapper",
+    "Type": "Freedom of Information",
+    "Description": "Tools that simplify the interface for filing freedom of information requests",
+    "Address": "null"
+  },
+  {
+    "Name": "Alavateli",
+    "Type": "Freedom of Information",
+    "Description": "Tools that simplify the interface for filing freedom of information requests",
+    "Address": "null"
+  },
+  {
+    "Name": "Froide",
+    "Type": "Freedom of Information",
+    "Description": "Tools that simplify the interface for filing freedom of information requests",
+    "Address": "null"
+  },
+  {
+    "Name": "FOIA Machine",
+    "Type": "Freedom of Information",
+    "Description": "Tools that simplify the interface for filing freedom of information requests",
+    "Address": "null"
+  },
+  {
+    "Name": "FOIAXpress",
+    "Type": "Freedom of Information",
+    "Description": "Tools that simplify the interface for filing freedom of information requests",
+    "Address": "null"
+  },
+  {
+    "Name": "RecordTrac",
+    "Type": "Freedom of Information",
+    "Description": "Tools that simplify the interface for filing freedom of information requests",
+    "Address": "null"
+  },
+  {
+    "Name": "New York City - Office of the Mayor’s FOIL Tracker",
+    "Type": "Freedom of Information",
+    "Description": "Tools that simplify the interface for filing freedom of information requests",
+    "Address": "null"
+  },
+  {
+    "Name": "Washington D.C.'s FOIA portal (see also DC FOIA SERVO)",
+    "Type": "Freedom of Information",
+    "Description": "Tools that simplify the interface for filing freedom of information requests",
+    "Address": "null"
+  },
+  {
+    "Name": "Canaree",
+    "Type": "Freedom of Information",
+    "Description": "Tools that simplify the interface for filing freedom of information requests",
+    "Address": "null"
+  },
+  {
+    "Name": "NextRequest",
+    "Type": "Freedom of Information",
+    "Description": "Tools that simplify the interface for filing freedom of information requests",
+    "Address": "null"
+  },
+  {
+    "Name": "Reclaim New York",
+    "Type": "Freedom of Information",
+    "Description": "Tools that simplify the interface for filing freedom of information requests",
+    "Address": "null"
+  },
+  {
+    "Name": "Frag Den Staat (FOI portal in Germany)",
+    "Type": "Freedom of Information",
+    "Description": "Tools that simplify the interface for filing freedom of information requests",
+    "Address": "null"
+  },
+  {
+    "Name": "PromiseTracker",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Poderpedia",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "MapLight",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "LittleSis",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenSecrets.org",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Legistorm",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenCorporates",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "PromiseTracker",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "DemocracyMap",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "ProjectVoteSmart",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenTheBooks",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "TheyWorkforYou",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Atlatszo",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Kohovolit",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Mzalendo (Kenya)",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Accountable",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenSpending",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "EveryPolitician.org",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Publish What You Fund",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Full Fact",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Delvicher",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Chequealo",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Politifact",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Factcheck.org",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Factcheck.ui",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "see IFCNF",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Opensensor.io",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Database of fact-checking groups around the world",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Budget Key",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Gift",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Follow the Money network",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "WebNabludatel",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Maidan Monitoring Information Center",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Contratados.org",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Govwiki",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "City Fiscal Scoring",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Trump Promise Tracker",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "Obama Promise Tracker",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "NYC Follow the Money campaign finance visualization",
+    "Type": "Watchdogging and Transparency",
+    "Description": "Technologies that seek to provide greater visibility to the activities of governments, corporations, or individuals in power and allow others to monitor them",
+    "Address": "null"
+  },
+  {
+    "Name": "PublicLab",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "ISeeChange",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "WayCount",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "SafeCast",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "PlumeLabs",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "Placemeter",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "Link NYC",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "HeatSeek",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "Soofa",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "FutureAir",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "Breezometer",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "OptiRTC",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "Takadu",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "Google Acclima partnership",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "CUSP Quantified Communities",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "Street Bump",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "Waze Connected Citizens",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "Did You Feel It?",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "HereLab",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "Veniam",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "PlusPool",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "Harlem Heat Project",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "CityDigital stormwater management",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "VisitMilano beacon network",
+    "Type": "Sensors",
+    "Description": "Technology that quantifies the physical environment, such as traffic or environmental factors",
+    "Address": "null"
+  },
+  {
+    "Name": "City dashboards",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Flow - Sidewalk Labs",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Poplus SayIt",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "TransitScreen",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Chicago Cityscape",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Brookings Democracy Dashboard",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Flow Parking - Sidewalk Labs",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "(IBM Many Eyes)",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "SandDance",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Windy City",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Stae",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "DataUSA",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "DataViva",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Public Data Explorer",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Budget G0V TW",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Virtual Singapore",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Databasic",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "MySidewalk",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Knomos",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Wordle",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Tableau",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Gephi",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Tableau Public",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Sourcemap",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Xtraktr",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "District Mobility DC",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Azavea has made several dashboard-ish decision-support sites",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Crashmapper NYC",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Calthorpe Analytics",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "National Priorities Project",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Census Reporter",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "USA Facts",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Dash",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "LiveStories",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Ecomo",
+    "Type": "Data Visualization Tools and Platforms",
+    "Description": "Tools that visually present & analyze information, such as \"dashboards",
+    "Address": "null"
+  },
+  {
+    "Name": "Artificial Intelligence for Disaster Response",
+    "Type": "Artificial Intelligence and Bots",
+    "Description": "Technologies that train models to function independently of direct human effort",
+    "Address": "null"
+  },
+  {
+    "Name": "DoNotPay bot",
+    "Type": "Artificial Intelligence and Bots",
+    "Description": "Technologies that train models to function independently of direct human effort",
+    "Address": "null"
+  },
+  {
+    "Name": "One Concern",
+    "Type": "Artificial Intelligence and Bots",
+    "Description": "Technologies that train models to function independently of direct human effort",
+    "Address": "null"
+  },
+  {
+    "Name": "Flair",
+    "Type": "Artificial Intelligence and Bots",
+    "Description": "Technologies that train models to function independently of direct human effort",
+    "Address": "null"
+  },
+  {
+    "Name": "Rachio",
+    "Type": "Artificial Intelligence and Bots",
+    "Description": "Technologies that train models to function independently of direct human effort",
+    "Address": "null"
+  },
+  {
+    "Name": "Radiator Labs",
+    "Type": "Artificial Intelligence and Bots",
+    "Description": "Technologies that train models to function independently of direct human effort",
+    "Address": "null"
+  },
+  {
+    "Name": "Tinder bot used in UK elections",
+    "Type": "Artificial Intelligence and Bots",
+    "Description": "Technologies that train models to function independently of direct human effort",
+    "Address": "null"
+  },
+  {
+    "Name": "FarmBeats",
+    "Type": "Artificial Intelligence and Bots",
+    "Description": "Technologies that train models to function independently of direct human effort",
+    "Address": "null"
+  },
+  {
+    "Name": "ESRI",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Poplus Mapit",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Mapbox",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Million Dollar Blocks",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Ushahidi",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Google Crisis Map",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Vision Zero NYC map",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Crowdmap",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Carto",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "MapMaker",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Neighborland",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenIR",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "UNICEF-GIS",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Humanitarian OpenStreetMap Team",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "MapAction",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Neighborland",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "FieldPapers",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Google Earth",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Quantum GIS",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenMapKit",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "AccessMap",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Vision Zero Portland map",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "uSocialmaps",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Shareabouts",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "OpenStreetMap",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Displacement Alert Project Map",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "National Transportation Noise Map",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Urban Forest Map",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Skycatch",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Sanctions Tracker",
+    "Type": "Mapping",
+    "Description": "Technologies to collect, plot, and display geographic data",
+    "Address": "null"
+  },
+  {
+    "Name": "Popolo",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Open Connectivity Foundation",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Open Civic Data Standard",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Represent",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Open 311",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Open Referral",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Joined Up Data Standards",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Open Eligibility",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Human Services Data Specification",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Open Trails",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Housefacts",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Building & Land Development Specification (BLDS)",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Open Contracting",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "General Transit Feed Specification (GTFS)",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Service Interface for Real Time Information (SIRI)",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "State Decoded",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Federal Spending Transparency - not applicable to cities or states yet, but highly likely to be in the future.",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Green Button",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Blue Button",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Library of Congress Machine Readable Cataloging",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Local Inspector Value-Entry Specification (LIVES)",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Spotcrime Open Crime Data Standard (SOCS)",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Open Hunting & Fishing - this standard requires a reasonable amount of technical skill to use, using JSON-Schema files to describe the data structures.",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Socrata data formats for Budget, Expenditures, and Service Connect",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "CitySDK - more of a toolkit for programmers than a data standard, but it does implicitly include some standardized data structures.",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Open Corporates",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Open Procurement",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Fiscal Data Protocols",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Open311",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "DCLG Waste Standards",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Standards.data.gov.uk",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "PFIF missing persons",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "International Aid Transparency Initiative",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Humanitarian Exchange Language",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "OHail",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "civic.json",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "CityGML",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "popolo",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "LogCheck",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Mark43",
+    "Type": "Data schemas and standards",
+    "Description": "Formats designed to structure data, which then enables interoperability, analysis, and software development",
+    "Address": "null"
+  },
+  {
+    "Name": "Technology Transformation Service citizen authentication",
+    "Type": "Identity",
+    "Description": "Standards and protocols for managing citizen or resident identity in a digital manner.",
+    "Address": "null"
+  },
+  {
+    "Name": "id kaart Estonia",
+    "Type": "Identity",
+    "Description": "Standards and protocols for managing citizen or resident identity in a digital manner.",
+    "Address": "null"
+  },
+  {
+    "Name": "Gov.uk Verify",
+    "Type": "Identity",
+    "Description": "Standards and protocols for managing citizen or resident identity in a digital manner.",
+    "Address": "null"
+  },
+  {
+    "Name": "Positive News Network",
+    "Type": "Journalism action",
+    "Description": "Tools and platforms that connect readers of journalism to constructive action they can take based on the story",
+    "Address": "null"
+  },
+  {
+    "Name": "Huffington Post Ways to Help feature",
+    "Type": "Journalism action",
+    "Description": "Tools and platforms that connect readers of journalism to constructive action they can take based on the story",
+    "Address": "null"
+  },
+  {
+    "Name": "Huffington Post RYOT",
+    "Type": "Journalism action",
+    "Description": "Tools and platforms that connect readers of journalism to constructive action they can take based on the story",
+    "Address": "null"
+  },
+  {
+    "Name": "Solutions Journalism Network",
+    "Type": "Journalism action",
+    "Description": "Tools and platforms that connect readers of journalism to constructive action they can take based on the story",
+    "Address": "null"
+  },
+  {
+    "Name": "(ShoutAbout)",
+    "Type": "Journalism action",
+    "Description": "Tools and platforms that connect readers of journalism to constructive action they can take based on the story",
+    "Address": "null"
+  },
+  {
+    "Name": "Talk About Local",
+    "Type": "Journalism action",
+    "Description": "Tools and platforms that connect readers of journalism to constructive action they can take based on the story",
+    "Address": "null"
+  },
+  {
+    "Name": "Pop-up Newsroom",
+    "Type": "Journalism action",
+    "Description": "Tools and platforms that connect readers of journalism to constructive action they can take based on the story",
+    "Address": "null"
+  },
+  {
+    "Name": "Journocoders",
+    "Type": "Journalism action",
+    "Description": "Tools and platforms that connect readers of journalism to constructive action they can take based on the story",
+    "Address": "null"
+  },
+  {
+    "Name": "MidiaNinja",
+    "Type": "Journalism action",
+    "Description": "Tools and platforms that connect readers of journalism to constructive action they can take based on the story",
+    "Address": "null"
+  },
+  {
+    "Name": "(Knight Foundation grant to TED)",
+    "Type": "Journalism action",
+    "Description": "Tools and platforms that connect readers of journalism to constructive action they can take based on the story",
+    "Address": "null"
+  },
+  {
+    "Name": "How to Help",
+    "Type": "Journalism action",
+    "Description": "Tools and platforms that connect readers of journalism to constructive action they can take based on the story",
+    "Address": "null"
+  },
+  {
+    "Name": "Washington Post fact-checking browser extensions",
+    "Type": "Journalism action",
+    "Description": "Tools and platforms that connect readers of journalism to constructive action they can take based on the story",
+    "Address": "null"
+  },
+  {
+    "Name": "GOOD.is",
+    "Type": "Journalism action",
+    "Description": "Tools and platforms that connect readers of journalism to constructive action they can take based on the story",
+    "Address": "null"
+  },
+  {
+    "Name": "Upworthy",
+    "Type": "Journalism action",
+    "Description": "Tools and platforms that connect readers of journalism to constructive action they can take based on the story",
+    "Address": "null"
+  },
+  {
+    "Name": "Speakable / Action Button",
+    "Type": "Journalism action",
+    "Description": "Tools and platforms that connect readers of journalism to constructive action they can take based on the story",
+    "Address": "null"
+  },
+  {
+    "Name": "iCivics",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Quake Quiz SF",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "(SF Heroes)",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Games for Change",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Community Plan IT",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Civic Seed",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Emerging Citizens",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "@Stake",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Bay Area Regional Planner",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Race to the White House",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Terra Incognita",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Fort Vancouver",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Connected Messages",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "(Budget Ball)",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "(Picture the Impossible)",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "(World of Fourcraft)",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "(Chromaroma)",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "(Macon Money)",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "(Power Planets)",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "(Vanished)",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "(Reactivism)",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "FoldIt",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Community Plan IT",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "PETLab",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Video Games Without Borders",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Block'hood",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Cognitive Games for Civics",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "www.cityflag.co",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Scratch",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Games for Change",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "unity3d.com",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Emerson Engagement Lab gov engagement game",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Fake it to make it",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Onewheel",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Minecraft for participatory planning",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "Translator Gator",
+    "Type": "Games/Playful Technologies",
+    "Description": "Games and other technologies meant to promote civic engagement",
+    "Address": "null"
+  },
+  {
+    "Name": "VR Hub at Laboratory of Technopolitics for the Common Good",
+    "Type": "Virtual / Augmented Reality",
+    "Description": "Virtual Reality applied to increasing comprehension of public policies, driving empathy, understanding the effects of climate change, etc.",
+    "Address": "null"
+  },
+  {
+    "Name": "MIT Changing Places CityScope LEGO city",
+    "Type": "Virtual / Augmented Reality",
+    "Description": "Virtual Reality applied to increasing comprehension of public policies, driving empathy, understanding the effects of climate change, etc.",
+    "Address": "null"
+  },
+  {
+    "Name": "Internet Archive End of Term archive",
+    "Type": "Archives",
+    "Description": "Accessible databases of civic and media archives",
+    "Address": "null"
+  },
+  {
+    "Name": "TV News Archive and captions",
+    "Type": "Archives",
+    "Description": "Accessible databases of civic and media archives",
+    "Address": "null"
+  },
+  {
+    "Name": "Data Refuge",
+    "Type": "Archives",
+    "Description": "Accessible databases of civic and media archives",
+    "Address": "null"
+  },
+  {
+    "Name": "Environmental Data & Governance Initiative",
+    "Type": "Archives",
+    "Description": "Accessible databases of civic and media archives",
+    "Address": "null"
+  },
+  {
+    "Name": "Sunlight Foundation index of removed government data and links to citizen archives",
+    "Type": "Archives",
+    "Description": "Accessible databases of civic and media archives",
+    "Address": "null"
+  },
+  {
+    "Name": "Land records for refugees",
+    "Type": "Blockchain",
+    "Description": "Civic applications built atop the blockchain, a distributed open ledger",
+    "Address": "null"
+  },
+  {
+    "Name": "Open Data Institute overview",
+    "Type": "Blockchain",
+    "Description": "Civic applications built atop the blockchain, a distributed open ledger",
+    "Address": "null"
+  },
+  {
+    "Name": "Vermont report on blockchain experiments",
+    "Type": "Blockchain",
+    "Description": "Civic applications built atop the blockchain, a distributed open ledger",
+    "Address": "null"
+  },
+  {
+    "Name": "Illinois Blockchain Initiative (statewide, cross-agency)",
+    "Type": "Blockchain",
+    "Description": "Civic applications built atop the blockchain, a distributed open ledger",
+    "Address": "null"
+  },
+  {
+    "Name": "FlipFeed",
+    "Type": "Filter bubble poppers",
+    "Description": "Tools that insert diverse viewpoints to disrupt echo chambers on social media platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "BuzzFeed Outside your bubble feature",
+    "Type": "Filter bubble poppers",
+    "Description": "Tools that insert diverse viewpoints to disrupt echo chambers on social media platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Escape your bubble",
+    "Type": "Filter bubble poppers",
+    "Description": "Tools that insert diverse viewpoints to disrupt echo chambers on social media platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Right Richter",
+    "Type": "Filter bubble poppers",
+    "Description": "Tools that insert diverse viewpoints to disrupt echo chambers on social media platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "PolitEcho",
+    "Type": "Filter bubble poppers",
+    "Description": "Tools that insert diverse viewpoints to disrupt echo chambers on social media platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "NY Times experiment",
+    "Type": "Filter bubble poppers",
+    "Description": "Tools that insert diverse viewpoints to disrupt echo chambers on social media platforms",
+    "Address": "null"
+  },
+  {
+    "Name": "Analysis of the Modern Media Ecosystem: An Open Toolkit",
+    "Type": "Media and social media analysis",
+    "Description": "Tools and datasets that allow us to quantify and study how an idea, meme, or campaign moves through the media ecosystem",
+    "Address": "null"
+  },
+  {
+    "Name": "Media Cloud",
+    "Type": "Media and social media analysis",
+    "Description": "Tools and datasets that allow us to quantify and study how an idea, meme, or campaign moves through the media ecosystem",
+    "Address": "null"
+  },
+  {
+    "Name": "Electome using Twitter firehose",
+    "Type": "Media and social media analysis",
+    "Description": "Tools and datasets that allow us to quantify and study how an idea, meme, or campaign moves through the media ecosystem",
+    "Address": "null"
+  },
+  {
+    "Name": "(Upwell) using Radian6",
+    "Type": "Media and social media analysis",
+    "Description": "Tools and datasets that allow us to quantify and study how an idea, meme, or campaign moves through the media ecosystem",
+    "Address": "null"
+  },
+  {
+    "Name": "Media Meter",
+    "Type": "Media and social media analysis",
+    "Description": "Tools and datasets that allow us to quantify and study how an idea, meme, or campaign moves through the media ecosystem",
+    "Address": "null"
+  },
+  {
+    "Name": "TV News Archive @ The Internet Archive",
+    "Type": "Media and social media analysis",
+    "Description": "Tools and datasets that allow us to quantify and study how an idea, meme, or campaign moves through the media ecosystem",
+    "Address": "null"
+  },
+  {
+    "Name": "Churnalism.org",
+    "Type": "Media and social media analysis",
+    "Description": "Tools and datasets that allow us to quantify and study how an idea, meme, or campaign moves through the media ecosystem",
+    "Address": "null"
+  },
+  {
+    "Name": "Pew New Media Index",
+    "Type": "Media and social media analysis",
+    "Description": "Tools and datasets that allow us to quantify and study how an idea, meme, or campaign moves through the media ecosystem",
+    "Address": "null"
+  },
+  {
+    "Name": "Ngram Viewer",
+    "Type": "Media and social media analysis",
+    "Description": "Tools and datasets that allow us to quantify and study how an idea, meme, or campaign moves through the media ecosystem",
+    "Address": "null"
+  },
+  {
+    "Name": "Capitol Words",
+    "Type": "Media and social media analysis",
+    "Description": "Tools and datasets that allow us to quantify and study how an idea, meme, or campaign moves through the media ecosystem",
+    "Address": "null"
+  },
+  {
+    "Name": "Flair",
+    "Type": "Sustainability & Environment",
+    "Description": "Created to make a city, community, home or person more environmentally friendly",
+    "Address": "null"
+  },
+  {
+    "Name": "Rachio",
+    "Type": "Sustainability & Environment",
+    "Description": "Created to make a city, community, home or person more environmentally friendly",
+    "Address": "null"
+  },
+  {
+    "Name": "Radiator Labs",
+    "Type": "Sustainability & Environment",
+    "Description": "Created to make a city, community, home or person more environmentally friendly",
+    "Address": "null"
+  },
+  {
+    "Name": "Bowery",
+    "Type": "Sustainability & Environment",
+    "Description": "Created to make a city, community, home or person more environmentally friendly",
+    "Address": "null"
+  },
+  {
+    "Name": "REVIVN",
+    "Type": "Sustainability & Environment",
+    "Description": "Created to make a city, community, home or person more environmentally friendly",
+    "Address": "null"
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  },
+  {
+    "Name": "",
+    "Type": "",
+    "Description": "",
+    "Address": ""
+  }
+]
